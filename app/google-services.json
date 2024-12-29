@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077913523017",
+    "project_id": "suffifirebase-2",
+    "storage_bucket": "suffifirebase-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077913523017:android:0b8c20561df77a3a930098",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHcDCd7mBNpkk3X8DQZ81HMYv9e07ryBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
